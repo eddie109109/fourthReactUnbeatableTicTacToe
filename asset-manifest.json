@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/fourthReactUnbeatableTicTacToe/static/js/main.833c4122.chunk.js",
+    "main.js.map": "/fourthReactUnbeatableTicTacToe/static/js/main.833c4122.chunk.js.map",
+    "runtime-main.js": "/fourthReactUnbeatableTicTacToe/static/js/runtime-main.0fa10904.js",
+    "runtime-main.js.map": "/fourthReactUnbeatableTicTacToe/static/js/runtime-main.0fa10904.js.map",
+    "static/js/2.8ea3bd20.chunk.js": "/fourthReactUnbeatableTicTacToe/static/js/2.8ea3bd20.chunk.js",
+    "static/js/2.8ea3bd20.chunk.js.map": "/fourthReactUnbeatableTicTacToe/static/js/2.8ea3bd20.chunk.js.map",
+    "index.html": "/fourthReactUnbeatableTicTacToe/index.html",
+    "precache-manifest.dabc6d975cf68d6fb222abf6c4d34e08.js": "/fourthReactUnbeatableTicTacToe/precache-manifest.dabc6d975cf68d6fb222abf6c4d34e08.js",
+    "service-worker.js": "/fourthReactUnbeatableTicTacToe/service-worker.js",
+    "static/js/2.8ea3bd20.chunk.js.LICENSE.txt": "/fourthReactUnbeatableTicTacToe/static/js/2.8ea3bd20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fa10904.js",
+    "static/js/2.8ea3bd20.chunk.js",
+    "static/js/main.833c4122.chunk.js"
+  ]
+}
